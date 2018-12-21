@@ -1,1 +1,1 @@
-flask
+BeautifulSoup==3.2.0
